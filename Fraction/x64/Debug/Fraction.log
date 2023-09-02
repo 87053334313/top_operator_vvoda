@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\87053\OneDrive\Рабочий стол\Wpf exercises\Fraction\Fraction\main.cpp(265,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Fraction.vcxproj -> C:\Users\87053\OneDrive\Рабочий стол\Wpf exercises\Fraction\x64\Debug\Fraction.exe
